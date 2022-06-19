@@ -59,9 +59,9 @@ A standardised skeleton code will be provided to you that you should integrate y
     - Lastly to create your conda environment use
     - conda create --name my env python=3.6
 ## Tracks
-- (Top) T-junction tracks 
-- (Middle) Oval Track 
-- (Bottom) Figure-of-eight track.
+- T-junction tracks 
+- Oval Track 
+- Figure-of-eight track.
 
 ## Driving Scenarios
 **Important**: we only use UK driving rules, i.e. driving on the left-hand side. The training data was based on the following driving scenarios:
