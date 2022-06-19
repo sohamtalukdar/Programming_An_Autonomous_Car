@@ -68,3 +68,7 @@ A standardised skeleton code will be provided to you that you should integrate y
 7. Performing a turn at the T-junction, in response to a traffic sign (either left or right).
 8. Driving around the figure-of-eight track in both directions, continuing straight at the intersection. We will not consider objects in or at the side of the road for this scenario.
 9. Stopping at a red traffic light and continuing at a green traffic light. We will only consider these scenarios in the live testing.
+
+## Files in the Repository
+1. angle.ipynb calculates the angle while driving through the different tracks
+2. speed.ipynb calculates the speed while driving determining when to stop and accelerate
