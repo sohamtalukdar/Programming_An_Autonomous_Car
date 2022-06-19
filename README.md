@@ -10,12 +10,6 @@
     5. [Training Machines](#training-machines)
     6. [Tracks](#tracks)
     7. [Driving Scenarios](#driving-scenarios)
-3. [Assessment and Important Dates](#assessment-and-important-dates)
-4. [Teams](#teams)
-5. [Resources to build the model](#resources-to-build-the-model)
-6. [Tips](#tips)
-7. [Report Marking CriteriaFile](#report-marking-criteria)
-8. [Pre-Processing](#pre-processing)
 
 # Overview
 **_In this project the task is to train a deep learning algorithm to autonomously navigate a real car around a realistic test circuit, and make the appropriate manoeuvres where necessary. At the end of the project, you are expected to give a presentation and write a report about what you have done. Your model will be tested on the track and will compete against the models of your peers._**
