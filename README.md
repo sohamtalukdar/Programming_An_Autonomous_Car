@@ -74,32 +74,3 @@ A standardised skeleton code will be provided to you that you should integrate y
 7. Performing a turn at the T-junction, in response to a traffic sign (either left or right).
 8. Driving around the figure-of-eight track in both directions, continuing straight at the intersection. We will not consider objects in or at the side of the road for this scenario.
 9. Stopping at a red traffic light and continuing at a green traffic light. We will only consider these scenarios in the live testing.
-
-# Assessment and Important Dates
-- **Kaggle and code submission**: 1.30pm on Friday 6th May 2022
-- **Live testing**: Wednesday 11th May 2021
-    - live testing performance will contribute 20% towards your total mark
-- **In-person Presentations**: 16th and 17th May 2022
-    - The presentations will last for 25 minutes
-    - speak for approximately 10 minutes each, with 5 minutes for questions
-    - You will be penalized if you over- run significantly
-    - The presentation will contribute 40% towards your total mark
-- **Report**: Friday May 20th 2022
-    - This is to be completed individually and will contribute 40% towards your total mark
-
-# Teams
-Please come up with a suitable team name and use this on Kaggle
-</br>
-Baride & Talukdar
-</br>
-Team name is **_Alpha_**
-
-# Resources to build the model
-1. [DeepPiCar — Part 1: How to Build a Deep Learning, Self Driving Robotic Car on a Shoestring Budget](https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c)
-2. [TensorFlow models on the Edge TPU](https://coral.ai/docs/edgetpu/models-intro/#compatibility-overview)
-
-# Tips
-1. Make good use of your Kaggle submissions to test different things. You get 1 per day – don’t let them go to waste! The only submission that matters is your final one earlier ones have no bearing on your mark, so don’t worry if the test score isn’t great. The best performing groups last year all made many submissions.
-2. Get started early and make a plan.
-3. Some initial data exploration on the training data will help you understand it better.
-4. More tips to come in the introductory session, including lessons from last year!
