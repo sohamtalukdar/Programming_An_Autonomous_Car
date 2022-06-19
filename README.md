@@ -59,9 +59,6 @@ A standardised skeleton code will be provided to you that you should integrate y
     - Lastly to create your conda environment use
     - conda create --name my env python=3.6
 ## Tracks
-![](Images/Live_Testing_Track.png)
-</br>
-Figure 1: 
 - (Top) T-junction tracks 
 - (Middle) Oval Track 
 - (Bottom) Figure-of-eight track.
