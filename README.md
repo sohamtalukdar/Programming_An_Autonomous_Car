@@ -57,6 +57,11 @@ A standardised skeleton code will be provided to you that you should integrate y
 - Oval Track 
 - Figure-of-eight track.
 
+<img width="315" alt="Screenshot 2023-01-18 at 02 22 52" src="https://user-images.githubusercontent.com/103217802/213010223-d445d46b-e53b-4e9e-877c-d1953757419f.png">
+
+
+
+
 ## Driving Scenarios
 **Important**: we only use UK driving rules, i.e. driving on the left-hand side. The training data was based on the following driving scenarios:
 1. Keeping in lane driving along the straight section of the T-junction track.
